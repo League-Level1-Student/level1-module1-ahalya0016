@@ -19,6 +19,7 @@ class Microwave {
 
 	Microwave() {
 		System.out.println("Microwave says: a Microwave has been made.");
+		
 	}
 
 	void putInMicrowave(Popcorn thingToBeCooked) {
@@ -80,6 +81,8 @@ public class Popcorn {
 			e.printStackTrace();
 		}
 	}
+
+	
 	
 }
 
